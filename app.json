@@ -1,0 +1,15 @@
+{
+  "name": "ms-configserver",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
